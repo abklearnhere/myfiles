@@ -15,6 +15,7 @@ let css = "";
 css += `
 
 @import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital@1&display=swap');
 
 html {
   -webkit-font-smoothing: antialiased;
